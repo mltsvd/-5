@@ -7,17 +7,18 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="531" Width="944">
     <Grid>
-        <Menu HorizontalAlignment="Center" IsEnabled="True" Margin="0,0,0,465" Width="701" >
-            <MenuItem x:Name="Cret" Header="Создать массив" Click="Cret_Click"></MenuItem>
-            <MenuItem x:Name="initi" Header="Заполнить массив" Click="initi_Click" ></MenuItem>
-            <MenuItem x:Name="ClerM" Header="Очистить массив" Click="ClerM_Click"></MenuItem>
-            <MenuItem x:Name="ClerL" Header="Очистить listbox" Click="ClerL_Click"></MenuItem>
-            <MenuItem x:Name="Inf" Header="О программе" Click="Inf_Click"></MenuItem>
-            <MenuItem x:Name="ShutDownProgS" Header="Завершить работу приложения" Click="ShutDownProgS_Click"></MenuItem>
+        <Menu HorizontalAlignment="Center" IsEnabled="True" Margin="0,0,0,470" Width="936" >
+            <MenuItem x:Name="Cret" Header="Создать массив" Click="Cret_Click" Height="36" Width="102"></MenuItem>
+            <MenuItem x:Name="initi" Header="Заполнить массив" Click="initi_Click" Width="115" ></MenuItem>
+            <MenuItem x:Name="Rasch" Header="Рассчитать ответ" Click="Rasch_Click" Width="108"></MenuItem>
+            <MenuItem x:Name="ClerM" Header="Очистить массив" Click="ClerM_Click" Width="111"></MenuItem>
+            <MenuItem x:Name="ClerL" Header="Очистить listbox" Click="ClerL_Click" Width="107"></MenuItem>
+            <MenuItem x:Name="Inf" Header="О программе" Click="Inf_Click" Width="90"></MenuItem>
+            <MenuItem x:Name="ShutDownProgS" Header="Завершить работу приложения" Click="ShutDownProgS_Click" Width="188"></MenuItem>
         </Menu>
 
         <DataGrid x:Name="dg1" Margin="10,38,319,385">
-          
+
         </DataGrid>
         <DataGrid x:Name="dg2" Margin="10,130,319,293"/>
         <DataGrid x:Name="dg3" Margin="10,222,319,203"/>
