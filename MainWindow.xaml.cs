@@ -83,15 +83,16 @@ namespace Пр5
         {
             string rez = null;
             Class1.Raschet(mas, out rez);
-            if(rez=="чередуются") MessageBox.Show("1 массив");
+            if(rez=="чередуются") rez+="1 массив";
             Class1.Raschet(mas, out rez);
-            if (rez == "чередуются") MessageBox.Show("2 массив");
+            if (rez == "чередуются") rez += "2 массив";
             Class1.Raschet(mas, out rez);
-            if (rez == "чередуются") MessageBox.Show("3 массив");
+            if (rez == "чередуются") rez += "3 массив";
             Class1.Raschet(mas, out rez);
-            if (rez == "чередуются") MessageBox.Show("4 массив");
+            if (rez == "чередуются") rez += "4 массив";
             Class1.Raschet(mas, out rez);
-            if (rez == "чередуются") MessageBox.Show("5 массив");
+            if (rez == "чередуются") rez += "5 массив";
+            MessageBox.Show(rez);
         }
     }
 }

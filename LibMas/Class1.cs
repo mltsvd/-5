@@ -21,14 +21,14 @@ namespace LibMas
         public static void InitArray(out char[] mas)
         {
             Random Rnd; Rnd = new Random();
-            mas = new char[100];
+            mas = new char[10];
             //mas = new String[100];
             for (int i = 0; i < mas.Length; i++)
                 mas[i] = Convert.ToChar(Rnd.Next('A','z'));
         }
         public static void CreateArray(out char[] mas)
         {
-            mas = new char[100];//создаем массив
+            mas = new char[10];//создаем массив
         }
         
         public static void CleanArray(ref char[] mas)
