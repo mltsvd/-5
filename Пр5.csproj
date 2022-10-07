@@ -96,6 +96,10 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="ClassLib\ClassLib.csproj">
+      <Project>{1c9c27c7-aee8-43bc-9fff-d60a6efa0eae}</Project>
+      <Name>ClassLib</Name>
+    </ProjectReference>
     <ProjectReference Include="LibMas\LibMas.csproj">
       <Project>{dc63558b-ef36-4dc8-9e22-430239aaa499}</Project>
       <Name>LibMas</Name>

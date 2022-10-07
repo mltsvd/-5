@@ -13,6 +13,7 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 using LibMas;
+using ClassLib;
 using System.IO;
 using Microsoft.Win32;
 
@@ -80,7 +81,17 @@ namespace Пр5
 
         private void Rasch_Click(object sender, RoutedEventArgs e)
         {
-
+            string rez = null;
+            Class1.Raschet(mas, out rez);
+            if(rez=="чередуются") MessageBox.Show("1 массив");
+            Class1.Raschet(mas, out rez);
+            if (rez == "чередуются") MessageBox.Show("2 массив");
+            Class1.Raschet(mas, out rez);
+            if (rez == "чередуются") MessageBox.Show("3 массив");
+            Class1.Raschet(mas, out rez);
+            if (rez == "чередуются") MessageBox.Show("4 массив");
+            Class1.Raschet(mas, out rez);
+            if (rez == "чередуются") MessageBox.Show("5 массив");
         }
     }
 }
