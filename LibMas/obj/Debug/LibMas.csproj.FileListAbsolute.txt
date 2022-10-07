@@ -50,7 +50,6 @@ C:\Users\ИСП-41.RSSK\source\repos\5N\LibMas\obj\Debug\LibMas.dll
 C:\Users\ИСП-41.RSSK\source\repos\5N\LibMas\obj\Debug\LibMas.pdb
 C:\Users\ИСП-41\Source\Repos\-5\LibMas\bin\Debug\LibMas.dll
 C:\Users\ИСП-41\Source\Repos\-5\LibMas\bin\Debug\LibMas.pdb
-C:\Users\ИСП-41\Source\Repos\-5\LibMas\obj\Debug\LibMas.csproj.AssemblyReference.cache
 C:\Users\ИСП-41\Source\Repos\-5\LibMas\obj\Debug\LibMas.csproj.CoreCompileInputs.cache
 C:\Users\ИСП-41\Source\Repos\-5\LibMas\obj\Debug\LibMas.dll
 C:\Users\ИСП-41\Source\Repos\-5\LibMas\obj\Debug\LibMas.pdb
