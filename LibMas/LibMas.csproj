@@ -45,11 +45,5 @@
     <Compile Include="Class1.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\Lib_10\Lib_10.csproj">
-      <Project>{007db56c-c99e-40f8-b847-1b2c0fd00736}</Project>
-      <Name>Lib_10</Name>
-    </ProjectReference>
-  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

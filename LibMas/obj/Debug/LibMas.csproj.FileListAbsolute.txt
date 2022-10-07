@@ -43,3 +43,8 @@ E:\РПМ 3 курс\Даша\Практическая работа 2\LibMas\obj
 E:\РПМ 3 курс\Даша\Практическая работа 2\LibMas\obj\Debug\LibMas.csproj.CopyComplete
 E:\РПМ 3 курс\Даша\Практическая работа 2\LibMas\obj\Debug\LibMas.dll
 E:\РПМ 3 курс\Даша\Практическая работа 2\LibMas\obj\Debug\LibMas.pdb
+C:\Users\ИСП-41.RSSK\source\repos\5N\LibMas\bin\Debug\LibMas.dll
+C:\Users\ИСП-41.RSSK\source\repos\5N\LibMas\bin\Debug\LibMas.pdb
+C:\Users\ИСП-41.RSSK\source\repos\5N\LibMas\obj\Debug\LibMas.csproj.CoreCompileInputs.cache
+C:\Users\ИСП-41.RSSK\source\repos\5N\LibMas\obj\Debug\LibMas.dll
+C:\Users\ИСП-41.RSSK\source\repos\5N\LibMas\obj\Debug\LibMas.pdb
