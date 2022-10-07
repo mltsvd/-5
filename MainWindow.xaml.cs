@@ -77,5 +77,10 @@ namespace Пр5
         {
             
         }
+
+        private void Rasch_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
     }
 }
