@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Пр5", "Пр5.csproj", "{9
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibMas", "LibMas\LibMas.csproj", "{DC63558B-EF36-4DC8-9E22-430239AAA499}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassLibraryArrays", "..\ClassLibraryArrays\ClassLibraryArrays.csproj", "{3546EDA2-E9F4-4BD8-AC4D-416F92CEEA5D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{DC63558B-EF36-4DC8-9E22-430239AAA499}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DC63558B-EF36-4DC8-9E22-430239AAA499}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DC63558B-EF36-4DC8-9E22-430239AAA499}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3546EDA2-E9F4-4BD8-AC4D-416F92CEEA5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3546EDA2-E9F4-4BD8-AC4D-416F92CEEA5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3546EDA2-E9F4-4BD8-AC4D-416F92CEEA5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3546EDA2-E9F4-4BD8-AC4D-416F92CEEA5D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
