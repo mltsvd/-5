@@ -70,12 +70,12 @@ namespace Пр5
 
         private void Inf_Click(object sender, RoutedEventArgs e)
         {
-            
+            MessageBox.Show("Выполнили практическую работу №5 студенты:\nЛейбович М.В;\nМельцаева Д.М.\nДаны пять одномерных массива символьных (только латинские буквы) элементов. Размер каждого массива не превосходит 100 элементов. Для каждого из массивов определить, чередуются ли в нем буквы строчные и прописные. Если да, то указать порядковый номер такого массива, в противном случае вывести отрицательный ответ.Проверку массива на выполнение условия оформить в виде процедуры с передачей в нее всех элементов рассматриваемого массива.", "Информация о программе", MessageBoxButton.OK);
         }
 
         private void ShutDownProgS_Click(object sender, RoutedEventArgs e)
         {
-            
+            Application.Current.Shutdown();
         }
 
         private void Rasch_Click(object sender, RoutedEventArgs e)
