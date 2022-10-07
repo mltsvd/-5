@@ -1,0 +1,45 @@
+C:\Users\ИСП-31\Desktop\LibMas\bin\Debug\LibMas.dll
+C:\Users\ИСП-31\Desktop\LibMas\bin\Debug\LibMas.pdb
+C:\Users\ИСП-31\Desktop\LibMas\obj\Debug\LibMas.csproj.AssemblyReference.cache
+C:\Users\ИСП-31\Desktop\LibMas\obj\Debug\LibMas.csproj.CoreCompileInputs.cache
+C:\Users\ИСП-31\Desktop\LibMas\obj\Debug\LibMas.dll
+C:\Users\ИСП-31\Desktop\LibMas\obj\Debug\LibMas.pdb
+C:\Users\ИСП-31\Desktop\LibMas\bin\Debug\Lib_10.dll
+C:\Users\ИСП-31\Desktop\LibMas\bin\Debug\Lib_10.pdb
+C:\Users\ИСП-31\Desktop\LibMas\obj\Debug\LibMas.csproj.CopyComplete
+E:\Практическая работа 2\LibMas\bin\Debug\LibMas.dll
+E:\Практическая работа 2\LibMas\bin\Debug\LibMas.pdb
+E:\Практическая работа 2\LibMas\bin\Debug\Lib_10.dll
+E:\Практическая работа 2\LibMas\bin\Debug\Lib_10.pdb
+E:\Практическая работа 2\LibMas\obj\Debug\LibMas.csproj.AssemblyReference.cache
+E:\Практическая работа 2\LibMas\obj\Debug\LibMas.csproj.CoreCompileInputs.cache
+E:\Практическая работа 2\LibMas\obj\Debug\LibMas.csproj.CopyComplete
+E:\Практическая работа 2\LibMas\obj\Debug\LibMas.dll
+E:\Практическая работа 2\LibMas\obj\Debug\LibMas.pdb
+C:\Users\ИСП-31\Desktop\Практическая работа 2\LibMas\bin\Debug\LibMas.dll
+C:\Users\ИСП-31\Desktop\Практическая работа 2\LibMas\bin\Debug\LibMas.pdb
+C:\Users\ИСП-31\Desktop\Практическая работа 2\LibMas\bin\Debug\Lib_10.dll
+C:\Users\ИСП-31\Desktop\Практическая работа 2\LibMas\bin\Debug\Lib_10.pdb
+C:\Users\ИСП-31\Desktop\Практическая работа 2\LibMas\obj\Debug\LibMas.csproj.AssemblyReference.cache
+C:\Users\ИСП-31\Desktop\Практическая работа 2\LibMas\obj\Debug\LibMas.csproj.CoreCompileInputs.cache
+C:\Users\ИСП-31\Desktop\Практическая работа 2\LibMas\obj\Debug\LibMas.csproj.CopyComplete
+C:\Users\ИСП-31\Desktop\Практическая работа 2\LibMas\obj\Debug\LibMas.dll
+C:\Users\ИСП-31\Desktop\Практическая работа 2\LibMas\obj\Debug\LibMas.pdb
+D:\Практическая работа 2\LibMas\bin\Debug\LibMas.dll
+D:\Практическая работа 2\LibMas\bin\Debug\LibMas.pdb
+D:\Практическая работа 2\LibMas\bin\Debug\Lib_10.dll
+D:\Практическая работа 2\LibMas\bin\Debug\Lib_10.pdb
+D:\Практическая работа 2\LibMas\obj\Debug\LibMas.csproj.AssemblyReference.cache
+D:\Практическая работа 2\LibMas\obj\Debug\LibMas.csproj.CoreCompileInputs.cache
+D:\Практическая работа 2\LibMas\obj\Debug\LibMas.csproj.CopyComplete
+D:\Практическая работа 2\LibMas\obj\Debug\LibMas.dll
+D:\Практическая работа 2\LibMas\obj\Debug\LibMas.pdb
+E:\РПМ 3 курс\Даша\Практическая работа 2\LibMas\bin\Debug\LibMas.dll
+E:\РПМ 3 курс\Даша\Практическая работа 2\LibMas\bin\Debug\LibMas.pdb
+E:\РПМ 3 курс\Даша\Практическая работа 2\LibMas\bin\Debug\Lib_10.dll
+E:\РПМ 3 курс\Даша\Практическая работа 2\LibMas\bin\Debug\Lib_10.pdb
+E:\РПМ 3 курс\Даша\Практическая работа 2\LibMas\obj\Debug\LibMas.csproj.AssemblyReference.cache
+E:\РПМ 3 курс\Даша\Практическая работа 2\LibMas\obj\Debug\LibMas.csproj.CoreCompileInputs.cache
+E:\РПМ 3 курс\Даша\Практическая работа 2\LibMas\obj\Debug\LibMas.csproj.CopyComplete
+E:\РПМ 3 курс\Даша\Практическая работа 2\LibMas\obj\Debug\LibMas.dll
+E:\РПМ 3 курс\Даша\Практическая работа 2\LibMas\obj\Debug\LibMas.pdb
