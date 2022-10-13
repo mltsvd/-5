@@ -10,16 +10,23 @@ namespace ClassLib
         public static void Raschet(char[] mas, out string rez)
         {
             int kol = 0;
+            string ch,ch1;
             rez = null;
-            for (int i = 0; i < mas.Length-1; i++)
+            for (int i = 0; i < mas.Length - 1; i++)
             {
-                if ((char.IsLower(mas[i]) == true && char.IsUpper(mas[i + 1]) == true) || (char.IsUpper(mas[i]) == true && char.IsLower(mas[i + 1]) == true))
+                ch = mas[i].ToString();
+                ch1 = mas[i+1].ToString();
+                if (char.IsLower(mas[i]) == true && char.IsUpper(mas[i + 1]) == true)
                 {
                     kol++;
                 }
+                if (char.IsUpper(mas[i]) == true && char.IsLower(mas[i + 1]) == true)
+                {
+                    kol++;
+                } 
             }
-            if (kol == 50) rez = "чередуются";
-            else rez = "нет";
+            if (kol == mas.Length-1) rez = "чередуются";
+            else rez = "Не чередуются";
         }
     }
 }

@@ -12,23 +12,17 @@ using Microsoft.Win32;
 namespace LibMas
 {
     public class Class2
-    {/// <summary>
-    /// 
-    /// </summary>
-    /// <param name="mas"//массив ></param>
-    /// <param name="column"// число колонок в массиве></param>
-    /// <param name="randMax"// рандомизация></param>
-        public static void InitArray(out char[] mas)
+    {
+        public static void InitArray(out char[] mas,int column)
         {
             Random Rnd; Rnd = new Random();
-            mas = new char[10];
-            //mas = new String[100];
+            mas = new char[column];
             for (int i = 0; i < mas.Length; i++)
                 mas[i] = Convert.ToChar(Rnd.Next('A','z'));
         }
-        public static void CreateArray(out char[] mas)
+        public static void CreateArray(out char[] mas, int column)
         {
-            mas = new char[10];//создаем массив
+            mas = new char[column];
         }
         
         public static void CleanArray(ref char[] mas)

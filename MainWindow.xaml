@@ -25,7 +25,9 @@
         <DataGrid x:Name="dg4" Margin="10,312,319,120"/>
         <DataGrid x:Name="dg5" Margin="10,395,319,32"/>
 
-        <ListBox x:Name="lsmr" Margin="640,38,21,21"/>
+        <ListBox x:Name="lsmr" Margin="640,38,21,120"/>
+        <TextBox x:Name="Column" HorizontalAlignment="Left" Margin="640,439,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <Label Content="Размер массивов" HorizontalAlignment="Left" Margin="640,408,0,0" VerticalAlignment="Top" Width="120"/>
 
 
     </Grid>
