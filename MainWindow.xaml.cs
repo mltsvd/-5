@@ -40,6 +40,10 @@ namespace Пр5
                 dg4.ItemsSource = VisualArray.ToDataTable(mas).DefaultView;
                 dg5.ItemsSource = VisualArray.ToDataTable(mas).DefaultView;
             }
+            else
+            {
+                MessageBox.Show("Введите корректный размер массива ", "Ошибка", MessageBoxButton.OK,MessageBoxImage.Error);
+            }
                 
         }
             private void initi_Click(object sender, RoutedEventArgs e)
@@ -57,7 +61,11 @@ namespace Пр5
                 Class2.InitArray(out mas, column);//используем функцию
                 dg5.ItemsSource = VisualArray.ToDataTable(mas).DefaultView;
             }
-               
+            else
+            {
+                MessageBox.Show("Введите корректный размер массива ", "Ошибка", MessageBoxButton.OK, MessageBoxImage.Error);
+            }
+
         }
 
         private void ClerM_Click(object sender, RoutedEventArgs e)
